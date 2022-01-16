@@ -7,5 +7,5 @@
     "configGroup": "Plugins",
     "configCode": "Payment",
     "configKey": "VnpayBasic",
-    "version": "5.2"
+    "version": "6.0"
 }

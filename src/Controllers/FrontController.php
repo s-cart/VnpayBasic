@@ -5,7 +5,7 @@ namespace App\Plugins\Payment\VnpayBasic\Controllers;
 use App\Plugins\Payment\VnpayBasic\AppConfig;
 use SCart\Core\Front\Models\ShopOrder;
 use SCart\Core\Front\Controllers\ShopCartController;
-use App\Http\Controllers\RootFrontController;
+use SCart\Core\Front\Controllers\RootFrontController;
 class FrontController extends RootFrontController
 {
     public $plugin;
